@@ -2,22 +2,17 @@
 
 Mods for Claude Code and the Claude desktop app, written to be simple to use.
 
-## Install
+There are no mods in the pack yet.
 
-In a terminal running Claude Code, type the line for the mod you want:
+## Install a mod
+
+In a terminal running Claude Code, type:
 
 ```
-/plugin install chats --marketplace wei2x13/laymen-modpack
+/plugin install <mod> --marketplace wei2x13/laymen-modpack
 ```
 
-Answer `y` to add the marketplace, then pick the **user** scope. The mod is then on
-in every new session, including the desktop app's Code tab.
-
-## Mods
-
-| Mod | What it does |
-| --- | --- |
-| [chats](./chats) | All your Claude chats in one pane beside the one you're in. See which need you, read their latest messages, reply, and open two side by side. |
+Answer `y` to add the marketplace, then pick the **user** scope.
 
 ## Adding a mod
 

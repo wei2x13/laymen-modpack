@@ -4,11 +4,5 @@
   "owner": {
     "name": "wei2x13"
   },
-  "plugins": [
-    {
-      "name": "chats",
-      "source": "./chats",
-      "description": "See all your Claude chats side by side in one pane: status, latest messages, and a reply box."
-    }
-  ]
+  "plugins": []
 }
