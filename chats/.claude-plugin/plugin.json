@@ -1,0 +1,9 @@
+{
+  "name": "chats",
+  "version": "0.1.0",
+  "description": "See all your Claude chats side by side in one pane: status, latest messages, and a reply box.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "wei2x13"
+  }
+}
